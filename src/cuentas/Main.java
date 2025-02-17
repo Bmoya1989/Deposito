@@ -22,6 +22,7 @@ System.out.println("El saldo actual es " + saldoActual);
         operaciones(cuenta1);
 saldoActual = cuenta1.estado();
 System.out.println("El saldo actual es " + saldoActual);
+
 System.out.println("Saldo actualizado: " + cuenta1.estado());
 }
 
